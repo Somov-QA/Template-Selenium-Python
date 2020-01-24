@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3646e343-c444-4149-8de4-bde595c11b3d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WpeIKVk1y2PSBfmGpNRsNrWiQV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Python.Test1 (1)">
+    <configuration name="Test1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Template-Selenium-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Template-Selenium-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/Test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Template-Selenium-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\GIT\Template-Selenium-Python\Test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Test1 (1)" />
+        <item itemvalue="Python.Test1" />
+        <item itemvalue="Python.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3646e343-c444-4149-8de4-bde595c11b3d" name="Default Changelist" comment="" />
+      <created>1579850884643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579850884643</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="439" y="85" key="#Test1" timestamp="1579851063357">
+      <screen x="0" y="40" width="1440" height="860" />
+    </state>
+    <state x="439" y="85" key="#Test1/0.40.1440.860/1440.40.1440.860@0.40.1440.860" timestamp="1579851063357" />
+    <state x="174" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579851094462">
+      <screen x="0" y="40" width="1440" height="860" />
+    </state>
+    <state x="174" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1440.860/1440.40.1440.860@0.40.1440.860" timestamp="1579851094462" />
+    <state x="499" y="175" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1579851056652">
+      <screen x="0" y="40" width="1440" height="860" />
+    </state>
+    <state x="499" y="175" key="#com.intellij.ide.macro.MacrosDialog/0.40.1440.860/1440.40.1440.860@0.40.1440.860" timestamp="1579851056652" />
+    <state x="2070" y="297" key="FileChooserDialogImpl" timestamp="1579859568275">
+      <screen x="1440" y="40" width="1440" height="860" />
+    </state>
+    <state x="2070" y="297" key="FileChooserDialogImpl/0.40.1440.860/1440.40.1440.860@1440.40.1440.860" timestamp="1579859568275" />
+    <state width="1419" height="222" key="GridCell.Tab.0.bottom" timestamp="1579862290946">
+      <screen x="1440" y="40" width="1440" height="860" />
+    </state>
+    <state width="1419" height="222" key="GridCell.Tab.0.bottom/0.40.1440.860/1440.40.1440.860@1440.40.1440.860" timestamp="1579862290946" />
+    <state width="1419" height="222" key="GridCell.Tab.0.center" timestamp="1579862290946">
+      <screen x="1440" y="40" width="1440" height="860" />
+    </state>
+    <state width="1419" height="222" key="GridCell.Tab.0.center/0.40.1440.860/1440.40.1440.860@1440.40.1440.860" timestamp="1579862290946" />
+    <state width="1419" height="222" key="GridCell.Tab.0.left" timestamp="1579862290945">
+      <screen x="1440" y="40" width="1440" height="860" />
+    </state>
+    <state width="1419" height="222" key="GridCell.Tab.0.left/0.40.1440.860/1440.40.1440.860@1440.40.1440.860" timestamp="1579862290945" />
+    <state width="1419" height="222" key="GridCell.Tab.0.right" timestamp="1579862290946">
+      <screen x="1440" y="40" width="1440" height="860" />
+    </state>
+    <state width="1419" height="222" key="GridCell.Tab.0.right/0.40.1440.860/1440.40.1440.860@1440.40.1440.860" timestamp="1579862290946" />
+    <state x="1661" y="113" key="SettingsEditor" timestamp="1579859576398">
+      <screen x="1440" y="40" width="1440" height="860" />
+    </state>
+    <state x="1661" y="113" key="SettingsEditor/0.40.1440.860/1440.40.1440.860@1440.40.1440.860" timestamp="1579859576398" />
+    <state x="416" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1579851774918">
+      <screen x="0" y="40" width="1440" height="860" />
+    </state>
+    <state x="416" y="294" key="com.intellij.ide.util.TipDialog/0.40.1440.860/1440.40.1440.860@0.40.1440.860" timestamp="1579851774918" />
+  </component>
+</project>
