@@ -1,6 +1,7 @@
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from Support.PageObjects.GooglePage import GooglePage
 
 class GoogleSteps:
     driver = 0
@@ -8,11 +9,11 @@ class GoogleSteps:
     def __init__(self, webdriver):
         self.driver = webdriver
 
-    def setValueInSearch(self, value, nameField):
-        searchField = self.driver.find_element_by_name(nameField)
+    def setValueInSearch(self, value):
+        searchField = GooglePage.getInputSearch(self)
         searchField.send_keys(value)
         searchField.send_keys(Keys.ENTER)
 
-    def getCountResultSearch(self, classResults):
-        resultElements = self.driver.find_elements_by_class_name(classResults)
+    def getCountResultSearch(self):
+        resultElements = GooglePage.getListResultsSearch(self)
         return len(resultElements)

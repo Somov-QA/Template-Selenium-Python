@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3646e343-c444-4149-8de4-bde595c11b3d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Support/PageObjects/GooglePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Support/PageObjects/GooglePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Support/StepObjects/GoogleSteps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Support/StepObjects/GoogleSteps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/TestSample.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/TestSample.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,13 +36,13 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\GIT\Template-Selenium-Python\Support\PageObjects" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GIT\Template-Selenium-Python\Support\StepObjects" />
       <recent name="C:\GIT\Template-Selenium-Python\Support\PageObjects" />
       <recent name="C:\GIT\Template-Selenium-Python\old" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GIT\Template-Selenium-Python\Support\PageObjects" />
     </key>
   </component>
   <component name="RunManager" selected="Python.TestSample">
@@ -194,22 +196,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="283" key="GridCell.Tab.0.bottom" timestamp="1598251651104">
+    <state width="1899" height="283" key="GridCell.Tab.0.bottom" timestamp="1598252612819">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1899" height="283" key="GridCell.Tab.0.bottom/1920.223.1440.860/0.40.1920.1040@0.40.1920.1040" timestamp="1598251651104" />
-    <state width="1899" height="283" key="GridCell.Tab.0.center" timestamp="1598251651104">
+    <state width="1899" height="283" key="GridCell.Tab.0.bottom/1920.223.1440.860/0.40.1920.1040@0.40.1920.1040" timestamp="1598252612819" />
+    <state width="1899" height="283" key="GridCell.Tab.0.center" timestamp="1598252612819">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1899" height="283" key="GridCell.Tab.0.center/1920.223.1440.860/0.40.1920.1040@0.40.1920.1040" timestamp="1598251651104" />
-    <state width="1899" height="283" key="GridCell.Tab.0.left" timestamp="1598251651104">
+    <state width="1899" height="283" key="GridCell.Tab.0.center/1920.223.1440.860/0.40.1920.1040@0.40.1920.1040" timestamp="1598252612819" />
+    <state width="1899" height="283" key="GridCell.Tab.0.left" timestamp="1598252612819">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1899" height="283" key="GridCell.Tab.0.left/1920.223.1440.860/0.40.1920.1040@0.40.1920.1040" timestamp="1598251651104" />
-    <state width="1899" height="283" key="GridCell.Tab.0.right" timestamp="1598251651104">
+    <state width="1899" height="283" key="GridCell.Tab.0.left/1920.223.1440.860/0.40.1920.1040@0.40.1920.1040" timestamp="1598252612819" />
+    <state width="1899" height="283" key="GridCell.Tab.0.right" timestamp="1598252612819">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1899" height="283" key="GridCell.Tab.0.right/1920.223.1440.860/0.40.1920.1040@0.40.1920.1040" timestamp="1598251651104" />
+    <state width="1899" height="283" key="GridCell.Tab.0.right/1920.223.1440.860/0.40.1920.1040@0.40.1920.1040" timestamp="1598252612819" />
     <state x="656" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1598250900967">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
