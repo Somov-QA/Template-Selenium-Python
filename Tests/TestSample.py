@@ -8,7 +8,10 @@ driver.get("https://www.google.com/")
 tester = GoogleSteps(driver)
 tester.setValueInSearch("GeForce 1650", GooglePage.inputSearchName)
 result = tester.getCountResultSearch(GooglePage.searchResultsClass)
-print(result)
+
+print("Count: ", result)
+assert result != 0
+print("Tests finished: SUCCESS")
 
 driver.close()
 driver.quit()
