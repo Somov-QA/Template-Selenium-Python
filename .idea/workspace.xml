@@ -42,7 +42,7 @@
       <recent name="C:\GIT\Template-Selenium-Python\Support\PageObjects" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.TestSample">
+  <component name="RunManager" selected="Python tests.Unittests in UnitTestSample.py">
     <configuration name="Test1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Template-Selenium-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,12 +169,26 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in UnitTestSample.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Template-Selenium-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tests/UnitTestSample.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in UnitTestSample.py" />
         <item itemvalue="Python.TestSample" />
         <item itemvalue="Python.Test1 (1)" />
         <item itemvalue="Python.Test2" />
-        <item itemvalue="Python.Test1" />
         <item itemvalue="Python.Test1" />
       </list>
     </recent_temporary>
@@ -193,25 +207,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="283" key="GridCell.Tab.0.bottom" timestamp="1598252684308">
+    <state width="1899" height="283" key="GridCell.Tab.0.bottom" timestamp="1598268509142">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1899" height="283" key="GridCell.Tab.0.bottom/1920.223.1440.860/0.40.1920.1040@0.40.1920.1040" timestamp="1598252684308" />
-    <state width="1899" height="283" key="GridCell.Tab.0.center" timestamp="1598252684308">
+    <state width="1899" height="283" key="GridCell.Tab.0.bottom/1920.223.1440.860/0.40.1920.1040@0.40.1920.1040" timestamp="1598268509142" />
+    <state width="1899" height="283" key="GridCell.Tab.0.center" timestamp="1598268509142">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1899" height="283" key="GridCell.Tab.0.center/1920.223.1440.860/0.40.1920.1040@0.40.1920.1040" timestamp="1598252684308" />
-    <state width="1899" height="283" key="GridCell.Tab.0.left" timestamp="1598252684308">
+    <state width="1899" height="283" key="GridCell.Tab.0.center/1920.223.1440.860/0.40.1920.1040@0.40.1920.1040" timestamp="1598268509142" />
+    <state width="1899" height="283" key="GridCell.Tab.0.left" timestamp="1598268509142">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1899" height="283" key="GridCell.Tab.0.left/1920.223.1440.860/0.40.1920.1040@0.40.1920.1040" timestamp="1598252684308" />
-    <state width="1899" height="283" key="GridCell.Tab.0.right" timestamp="1598252684308">
+    <state width="1899" height="283" key="GridCell.Tab.0.left/1920.223.1440.860/0.40.1920.1040@0.40.1920.1040" timestamp="1598268509142" />
+    <state width="1899" height="283" key="GridCell.Tab.0.right" timestamp="1598268509142">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1899" height="283" key="GridCell.Tab.0.right/1920.223.1440.860/0.40.1920.1040@0.40.1920.1040" timestamp="1598252684308" />
-    <state x="656" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1598254297593">
+    <state width="1899" height="283" key="GridCell.Tab.0.right/1920.223.1440.860/0.40.1920.1040@0.40.1920.1040" timestamp="1598268509142" />
+    <state x="656" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1598267858907">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="656" y="384" key="com.intellij.ide.util.TipDialog/1920.223.1440.860/0.40.1920.1040@0.40.1920.1040" timestamp="1598254297593" />
+    <state x="656" y="384" key="com.intellij.ide.util.TipDialog/1920.223.1440.860/0.40.1920.1040@0.40.1920.1040" timestamp="1598267858907" />
   </component>
 </project>
